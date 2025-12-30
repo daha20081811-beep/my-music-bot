@@ -1,0 +1,3 @@
+aiogram
+lyricsgenius
+yt-dlp
